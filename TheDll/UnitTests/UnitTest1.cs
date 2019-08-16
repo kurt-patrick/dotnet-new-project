@@ -2,7 +2,7 @@ using System;
 using Xunit;
 //using QBWCService;
 
-namespace TheTests
+namespace TheDll.UnitTests
 {
     public class UnitTest1
     {
